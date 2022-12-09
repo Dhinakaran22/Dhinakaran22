@@ -2,10 +2,6 @@
 <html>
 <head>
 <style>
-  
-img {
-  width: 100%;
-}
 </style>
 </head>
 <body>
