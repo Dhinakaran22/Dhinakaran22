@@ -10,8 +10,6 @@ img {
 </head>
 <body>
 
-<h2>Width/Height Attributes or Style?</h2>
-
 <img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
 
 <img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
