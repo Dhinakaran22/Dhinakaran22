@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+  
+img {
+  width: 100%;
+}
+</style>
+</head>
 <body>
 
-<h1>My First Heading</h1>
+<h2>Width/Height Attributes or Style?</h2>
 
-<p>My first paragraph.</p>
+<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
+
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
 
 </body>
 </html>
+
